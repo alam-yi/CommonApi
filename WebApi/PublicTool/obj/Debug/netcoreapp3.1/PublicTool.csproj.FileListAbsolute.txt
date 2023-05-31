@@ -1,0 +1,13 @@
+D:\Project\api\WebApi\PublicTool\obj\Debug\netcoreapp3.1\PublicTool.csproj.AssemblyReference.cache
+D:\Project\api\WebApi\PublicTool\obj\Debug\netcoreapp3.1\PublicTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\api\WebApi\PublicTool\obj\Debug\netcoreapp3.1\PublicTool.AssemblyInfoInputs.cache
+D:\Project\api\WebApi\PublicTool\obj\Debug\netcoreapp3.1\PublicTool.AssemblyInfo.cs
+D:\Project\api\WebApi\PublicTool\obj\Debug\netcoreapp3.1\PublicTool.csproj.CoreCompileInputs.cache
+D:\Project\api\WebApi\PublicTool\bin\Debug\netcoreapp3.1\PublicTool.deps.json
+D:\Project\api\WebApi\PublicTool\bin\Debug\netcoreapp3.1\PublicTool.dll
+D:\Project\api\WebApi\PublicTool\bin\Debug\netcoreapp3.1\PublicTool.pdb
+D:\Project\api\WebApi\PublicTool\bin\Debug\netcoreapp3.1\Model.dll
+D:\Project\api\WebApi\PublicTool\bin\Debug\netcoreapp3.1\Model.pdb
+D:\Project\api\WebApi\PublicTool\obj\Debug\netcoreapp3.1\PublicTool.csproj.CopyComplete
+D:\Project\api\WebApi\PublicTool\obj\Debug\netcoreapp3.1\PublicTool.dll
+D:\Project\api\WebApi\PublicTool\obj\Debug\netcoreapp3.1\PublicTool.pdb
